@@ -1,7 +1,7 @@
 #!/bin/bash
 uploadbool=false
 today=`date +%Y-%m-%d.%H:%M:%S`
-backupdir="backup/"
+backupdir="backups/"
 
 cd ~/klipper_config
 
