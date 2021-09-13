@@ -17,4 +17,5 @@ done
 
 git add .
 git commit -m "backup."$today
-git push -u origin VS.067 --force
+#git push -u origin VS.067 --force
+git push
